@@ -1,0 +1,37 @@
+.landing_page-container h1 {
+  display: flex;
+  justify-content: center;
+  padding-top: 10%;
+  font-size: 60px;
+}
+
+.landing_page-container button {
+  color: red;
+  height: 100px;
+  width: 200px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: large;
+}
+
+.landing_page-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5%;
+}
+
+.landing_page-container {
+  /* background-color: blue; */
+}
+
+.modal_content-container h1 {
+  /* background-color: cyan; */
+  display: flex;
+  justify-content: center;
+}
+
+.submitbutton {
+  /* background-color: aqua; */
+  margin-left: 40%;
+}
